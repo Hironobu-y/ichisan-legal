@@ -11,8 +11,11 @@
 の2つのサービスを提供しております。
 
 申込ページは以下となります。
-イチサンSalesforce
+
+■イチサンSalesforce
+
 https://www.houjin-bangou.co.jp/ichisan-for-salesforce
 
-イチサンフォーム
+■イチサンフォーム
+
 https://www.houjin-bangou.co.jp/ichisan-form-beta
