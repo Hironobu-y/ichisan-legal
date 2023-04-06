@@ -13,9 +13,10 @@
 申込ページは以下となります。
 
 ■イチサンSalesforce
-
 https://www.houjin-bangou.co.jp/ichisan-for-salesforce
 
 ■イチサンフォーム
-
 https://www.houjin-bangou.co.jp/ichisan-form-beta
+
+■イチサン利用規約
+https://www.houjin-bangou.co.jp/ichisan-legal
