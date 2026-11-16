@@ -36,3 +36,11 @@ Webフォームに入力された法人情報を元に、法人番号やイン�
 - **イチサン利用規約:** https://www.houjin-bangou.co.jp/ichisan-legal
 
 # 利用規約改定履歴について
+
+# プライバシーポリシー
+
+- [公式サイトのプライバシーポリシー](https://www.houjin-bangou.co.jp/privacypolicy)
+- [本文](%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC.txt)
+- [改定履歴](https://github.com/Hironobu-y/ichisan-legal/commits/main/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC.txt)
+
+改定時はこのリポジトリで本文と改定日を更新し、HubSpotの公式ページに同じ内容を反映します。公開後に両方の本文と改定日を照合します。
